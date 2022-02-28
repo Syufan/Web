@@ -1,0 +1,60 @@
+https://codeshare.io/K8g4mE
+
+javac 文件名（包括后缀
+java 文件名
+
+gcc 文件名（包括后缀
+文件名
+
+jupyter快速打开
+http://localhost:8889/tree
+
+
+1. set email and name
+git config --global user.email "yufan.zhang@student.unimelb.edu.au"
+git config --global user.name "yufanZhang"
+
+2. 
+git clonegi
+
+3.make sure you have that local file
+  git add .  
+  git add
+
+4. 
+  git commit -m "measningful"
+
+5.
+  git push -u origin master
+
+================================
+git init
+
+3
+4
+
+
+
+
+git remote -v
+
+git pull origin master
+//将远程主机 origin 的 master 分支拉取过来，与本地的 brantest 分支合并。
+
+
+git status
+=======================
+git init
+
+git clone url
+
+git remote add origin url
+git branch -M main
+git push -u origin main
+
+
+
+
+
+git checkout origin/master -- xxxx
+
